@@ -1,10 +1,10 @@
-package com.example.accusation;
+package com.example.reviewinfo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AccusationApplicationTests {
+class ReviewinfoApplicationTests {
 
 	@Test
 	void contextLoads() {
