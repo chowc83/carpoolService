@@ -15,17 +15,17 @@ public class Review {
     @Id @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
-    @Column(name = "REVIEWER_ID", nullable = false)
+    @Column(name = "REVIEWER_ID")
     private Long reviewerId;
 
     @Embedded
     private ReviewTarget reviewTarget;
 
-    @Column(name = "REVIEW_SCORE", nullable = false)
+    @Column(name = "REVIEW_SCORE")
     @Enumerated(EnumType.STRING)
     private ReviewScore reviewScore;
 
-    @Column(name = "COMMENT", nullable = false)
+    @Column(name = "COMMENT")
     private String comment;
 
 

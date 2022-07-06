@@ -13,12 +13,12 @@ import javax.persistence.Enumerated;
 @AllArgsConstructor
 @NoArgsConstructor
 @Embeddable
-public class ReviewTarget {
+public class ReviewTarget { 
 
-    @Column(name = "REVIEWTARGET_ID", nullable = false)
+    @Column(name = "REVIEWTARGET_ID")
     private Long reviewTargetId;
 
-    @Column(name = "CARPOOL_ROLE", nullable = false)
+    @Column(name = "CARPOOL_ROLE")
     @Enumerated(EnumType.STRING)
     private CarpoolRole carpoolRole;
 
