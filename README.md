@@ -1,4 +1,6 @@
 # ddd-petstore
+https://workflowy.com/s/ddd/9pFlIV5XAfuWu3qC
+https://docs.google.com/spreadsheets/d/1T2rbROLIJSKrn_XFHxlxlSaxmG5pFojtI8s6xC-X2co/edit#gid=0
 
 ## GitPod 접속
 https://gitpod.io/#https://github.com/msa-school/ddd-petstore-level9-bounded-multi-model
