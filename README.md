@@ -2,11 +2,6 @@
 https://workflowy.com/s/ddd/9pFlIV5XAfuWu3qC
 https://docs.google.com/spreadsheets/d/1T2rbROLIJSKrn_XFHxlxlSaxmG5pFojtI8s6xC-X2co/edit#gid=0
 
-http POST http://localhost:8081/reviews reviewerId="111" reviewTargetId="222" carpoolRole ="DRIVER" reviewScore="OKAY" comment="hello"
-http POST http://localhost:8081/reviews reviewerid="111" reviewtargetid="222" reviewscore="OKAY" comment="hello"
-
-http :8081/reviews reviewerId="111" reviewTargetId="222" reviewScore="VERYGOOD" comment="hello"
-
 
 ## GitPod 접속
 https://gitpod.io/#https://github.com/msa-school/ddd-petstore-level9-bounded-multi-model
